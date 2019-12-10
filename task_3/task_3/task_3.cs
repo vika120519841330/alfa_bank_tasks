@@ -27,7 +27,7 @@ using System.Threading.Tasks;
 
 namespace task_3
 {
-    class Program
+    class task_3
     {
         static void Main(string[] args)
         {
